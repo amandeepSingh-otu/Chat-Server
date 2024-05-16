@@ -1,5 +1,5 @@
 # WebSocket Chat Server
-
+### This is a course assignment, please do not copy code.
 [[Click to watch demonstration video]](https://drive.google.com/file/d/1JkhwsAqloMuNwwxwfC-CSqSr8mE20izE/preview)
 
 ![img.png](images/img.png)![img_1.png](images/img_1.png)![img_2.png](images/img_2.png)
@@ -18,11 +18,11 @@
     - Servlets for providing active user info, existing rooms
     - Manages connections, messages, and room memberships.
 
-## Group Members (Contribution)
-- Amandeep Singh (25%)
-- Simon Gotera Vargas (25%)
-- Josiah Jehoiakim Yap  (25%)
-- Tyler Valentini  (25%)
+## Group Members 
+- Amandeep Singh 
+- Simon Gotera Vargas 
+- Josiah Jehoiakim Yap 
+- Tyler Valentini
 
 ## Improvements
 
